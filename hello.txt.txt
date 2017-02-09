@@ -1,1 +1,2 @@
 print ("Hello lapka")
+print("hello cats")
